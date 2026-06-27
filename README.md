@@ -1,7 +1,9 @@
 # 📊 GitHub Stats:
 <div align="center">
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
+  <table>
+    <tr>
+      <td><img src="./profile/stats.svg" height="150" width="320" /></td>
+      <td><img src="./profile/top-langs.svg" height="150" width="320" /></td>
+    </tr>
+  </table>
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
